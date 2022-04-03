@@ -7,3 +7,5 @@ Nous avons push 3 versions différentes de notre code, ayant chacune des tags di
 
 -v1.2.0 : Cette image exécute un script en bash qui contient la commande "echo bonjour"
 
+Lorsqu'on va push vers Github une nouvelle version de notre fichier DockerFile est automatiquement mise à jour également sur DockerHub :
+https://hub.docker.com/repository/docker/hardawks/tp9/general
